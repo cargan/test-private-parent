@@ -1,0 +1,3 @@
+[submodule "open-source-code"]
+	path = open-source-code
+	url = git@github.com:cargan/test-public-submodule.git
